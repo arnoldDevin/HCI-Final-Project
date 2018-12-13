@@ -33,4 +33,5 @@ Email: dear0350@colorado.edu
 
 
 ### Project Video
+[https://www.youtube.com/watch?v=AMuNL8mtQ34&feature=youtu.be](https://www.youtube.com/watch?v=AMuNL8mtQ34&feature=youtu.be)
 
