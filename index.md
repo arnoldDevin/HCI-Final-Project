@@ -4,9 +4,9 @@ Dog Tracker app for CSCI 3002 - Fundamentals of HCI
 
 # Team Members
 ### Zachary Guse
-Email: zagu5181@colorado.edu
+Email: [zagu5181@colorado.edu](zagu5181@colorado.edu)
 ### Devin Arnold
-Email: dear0350@colorado.edu
+Email: [dear0350@colorado.edu](dear0350@colorado.edu)
 
 # Assignments
 
