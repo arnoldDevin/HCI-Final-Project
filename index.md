@@ -1,4 +1,4 @@
-# Dog Tracker
+# Dog Tracker 
 
 Dog Tracker app for CSCI 3002 - Fundamentals of HCI
 
