@@ -11,7 +11,7 @@ Email: dear0350@colorado.edu
 # Assignments
 
 ### Group 2 - Project Plan
-[Link] (https://docs.google.com/document/d/10a_ExmbLM8Z1ItefsIRr5PCF9A-Jszc71yOYipZfNOQ/edit?usp=sharing)
+[https://docs.google.com/document/d/10a_ExmbLM8Z1ItefsIRr5PCF9A-Jszc71yOYipZfNOQ/edit?usp=sharing)]
 
 ### Group 3 - Design Research
 https://docs.google.com/document/d/1-Is5z9q_on4s-LT5Wfsi-9EHg0qFCbi05fusJc5pkgQ/edit?usp=sharing
